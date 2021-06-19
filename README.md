@@ -1,2 +1,2 @@
 # justforfun
-GPU simulators, Etherium distributed AI, numerical Mars flight modeling and other useless stuff
+GPU simulators, Ethereum distributed AI, numerical Mars flight modeling and other useless stuff
